@@ -1,5 +1,5 @@
 {
     "gameTitle": "Harika Oyun",
-    "enemySpeed": 5,
-    "playerHealth": 3
+    "enemySpeed": 50,
+    "playerHealth": 100
 }
